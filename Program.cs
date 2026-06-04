@@ -4,6 +4,9 @@ using Microsoft.Extensions.Configuration;
 
 try
 {
+
+    //TODO: Fix everything.
+
     var configuration = new ConfigurationBuilder()
         .AddJsonFile("appsettings.json", optional: false, reloadOnChange: false)
         .Build();
