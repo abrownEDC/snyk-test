@@ -1,3 +1,4 @@
 <Solution>
   <Project Path="snyk-test.csproj" />
+  <Project Path="snyk-test.Tests\snyk-test.Tests.csproj" />
 </Solution>
